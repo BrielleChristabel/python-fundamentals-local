@@ -14,7 +14,7 @@
 ### 🌷 About Me
 I’m currently studying *Python Fundamentals* and building my foundation to become an *NLP Engineer* — blending creativity, logic, and intention in every project.
 
-💭 "I believe code should not only work — it should feel elegant and purposeful."  
+💭 "I believe code should not only work — A wild mind and disciplined eyes."  
 💗 Based in creativity, driven by curiosity, and inspired by simplicity.
 
 ---
