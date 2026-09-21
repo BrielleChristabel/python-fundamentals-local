@@ -54,7 +54,7 @@ Ini adalah proyek AI pertama saya yang mengintegrasikan otomasi dan analisis emo
 
 ### 🎯 My Goals
 - Build meaningful *AI-based projects* - Collaborate globally with other developers  
-- Launch my *personal portfolio website* - Keep learning, creating, and inspiring 💫
+- Launch my *personal portfolio website* - Keep learning, building my own digital product, and inspiring. 💫
 
 ---
 
